@@ -1,0 +1,9 @@
+instructors:
+  - name: Jeffrey Considine
+    profile_pic: /_images/pp/considine.png
+    webpage: https://jefconsidine.com/
+    email: jconsidi@bu.edu
+
+teaching_assistants:
+  - name: Carrie Feng
+    email: carrieff@bu.edu
