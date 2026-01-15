@@ -1,7 +1,7 @@
 ---
 type: raw_event
-date: 2025-11-30T23:59:59-5:00
-name: End of Thanksgiving Recess
-description: 'Thanksgiving recess ends'
+date: 2026-03-15T22:59:59-5:00
+name: End of Spring Recess
+description: 'Spring recess ends -- Welcome back!🌸🌷🌺'
 hide_from_announcments: true
 ---
