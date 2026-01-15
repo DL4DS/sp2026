@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-12-03T14:30:00-5:00
+date: 2026-04-28T15:30:00-5:00
 title: 26 - Reasoning and World Models
 tldr: "In this lecture we examine claims that models have world models and can reason, and attempts to encourage such behavior."
 #thumbnail: /_images/thumbnails/ds598-gnn.png
@@ -8,10 +8,6 @@ hide_from_announcments: true
 links:
     - url: /static_files/lectures/26_reasoning.pdf
       name: slides
-    - url: /static_files/lectures/26_reasoning_annotated.pdf
-      name: annotated slides
-    - url: https://echo360.org/lesson/G_838b35d7-329e-402a-876b-d51a5a4e2e38_ce95771d-32af-4a00-a68f-ff891306f848_2025-12-03T14:30:00.000_2025-12-03T16:15:00.000/classroom
-      name: lecture recording
 ---
 **Readings:**
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903)
