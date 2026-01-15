@@ -3,7 +3,7 @@ course_name: Deep Learning for Data Science (DL4DS)
 course_description: "In this course we will dive into Deep Learning. We'll balance important theoretical concepts with hands on network training and applications using modern deep learning python frameworks. We'll explore numerous network architectures like CNNs, transformers, and the rapidly developing state-of-the-art of large pre-trained foundation models. You'll have the chance to apply what you've learned in multiple projects."
 course_semester: "Spring 2026"
 
-baseurl: "/sp26" # the subpath of your site, e.g. /blog/
+baseurl: "/sp2026" # the subpath of your site, e.g. /blog/
 url: "http://dl4ds.github.io" # the base hostname & protocol for your site
 
 schoolname: "Boston University Faculty for Computing and Data Science"
@@ -12,7 +12,7 @@ schoolurl: "https://www.bu.edu/cds-faculty/"
 # google_scholar_id: tY3MyCgAAAAJ
 linkedin_username: trgardos
 github_repo: https://github.com/DL4DS/sp2026
-repository: DL4DS/sp26
+repository: DL4DS/sp2026
 
 address: |
     Boston, MA
