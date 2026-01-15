@@ -1,9 +1,19 @@
 instructors:
-  - name: Jeffrey Considine
-    profile_pic: /_images/pp/considine.png
-    webpage: https://jefconsidine.com/
-    email: jconsidi@bu.edu
+  - name: Thomas Gardos
+    profile_pic: /_images/pp/gardos.jpg
+    webpage: https://www.linkedin.com/in/thomas-gardos/
+    email: tgardos@bu.edu
 
 teaching_assistants:
-  - name: Carrie Feng
-    email: carrieff@bu.edu
+  - name: TBD
+    email: TBD
+  - name: TBD
+    email: TBD
+
+course_assistants:
+  - name: TBD
+    email: TBD
+  - name: TBD
+    email: TBD
+  - name: TBD
+    email: TBD    

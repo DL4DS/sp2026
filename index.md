@@ -9,25 +9,30 @@ layout: home
 
 ## Personnel and Logistics
 
-**Lectures (A1):** Mondays and Wednesdays, 2:30pm -- 4:15pm<br>
+**Lectures (A1):** Tuesdays and Thursdays, 3:30pm -- 4:45pm<br>
 **Location:** STH B19 (745 Commonwealth Ave)
 
-**Discussion Session A2:** Wednesdays, 12:20pm -- 1:10pm<br>
-**Location:** CDS 164 (665 Commonwealth Ave)
+**Discussion Session A2:** Fridays, 10:10pm -- 11:00am<br>
+**Location:** IEC B10 (888 Commonwealth Ave)
 
-**Discussion Session A3:** Wednesdays, 1:25pm -- 2:15pm<br>
-**Location:** STH 113 (745 Commonwealth Ave)
+**Discussion Session A3:** Fridays, 11:15am -- 12:05pm<br>
+**Location:** MUG 205 (771 Commonwealth Ave)
 
+**Discussion Session A4:** Fridays, 12:20pm -- 1:10pm<br>
+**Location:** CGS 315 (871 Commonwealth Ave)
 
-**Instructor:** Jeffrey Considine
-* Office: CDS 1645
-* Office Hours: Monday 11-12, Tuesday 3-4, Wednesday 1-2, Thursday 1-2
-* email: jconsidi \<at\> bu \<dot\> edu
+**Discussion Session A5:** Fridays, 1:25pm -- 2:15pm<br>
+**Location:** CGS 315 (871 Commonwealth Ave)
 
-**Teaching Assistant:** Carrie Feng
-* Office Hours: Tuesday 11-12, Friday 11-12
+**Instructor:** Thomas Gardos
+* Office: CDS 1623
+* Office Hours: Tuesdays 2-3pm, Thursdays 2-3pm, or by appointment
+* email: tgardos \<at\> bu \<dot\> edu
+
+**Teaching Assistant:** TBD
+* Office Hours: TBD
 * Office Hours Location: TBD
-* email: carrieff \<at\> bu \<dot\> edu
+* email: TBD
 
 ## Course Description
 
