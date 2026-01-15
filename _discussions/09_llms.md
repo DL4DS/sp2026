@@ -1,7 +1,7 @@
 ---
 type: discussion
-date: 2025-11-05
-title: Discussion 9
+date: 2026-04-03
+title: Discussion 9 -- LLM Training
 tldr: We will use a basic LLM training workflow to train a small LLM.
 #thumbnail: /_images/thumbnails/ds598-discussion-01.png
 hide_from_announcments: true
@@ -9,6 +9,6 @@ hide_from_announcments: true
 #    - url: /static_files/discussion_slides/00_discussion.pdf
 #      name: slides
 ---
-**Notebook:** [discussion_9.ipynb](https://github.com/DL4DS/fa2025_discussions/blob/main/discussion_9.ipynb)    
+**Notebook:** [discussion_9.ipynb](https://github.com/DL4DS/fa2026_discussions/blob/main/discussion_9.ipynb)    
 **Suggested Readings:**
 - TBD
