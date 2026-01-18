@@ -24,15 +24,28 @@ layout: home
 **Discussion Session A5:** Fridays, 1:25pm -- 2:15pm<br>
 **Location:** CGS 315 (871 Commonwealth Ave)
 
-**Instructor:** Thomas Gardos
-* Office: CDS 1623
-* Office Hours: Tuesdays 2-3pm, Thursdays 2-3pm, or by appointment
-* email: tgardos \<at\> bu \<dot\> edu
+**Instructor(s):**
+{% for person in site.data.people.instructors %}
+- {{ person.name }}{% if person.email %} ({{ person.email }}){% endif %}
+  {% if person.office %}- Office: {{ person.office }}{% endif %}
+  {% if person.office_hours %}- Office Hours: {{ person.office_hours }}{% endif %}
+{% endfor %}
 
-**Teaching Assistant:** TBD
-* Office Hours: TBD
-* Office Hours Location: TBD
-* email: TBD
+**Teaching Assistants:**
+{% for person in site.data.people.teaching_assistants %}
+- {{ person.name }}{% if person.email %} ({{ person.email }}){% endif %}
+  {% if person.office %}- Office: {{ person.office }}{% endif %}
+  {% if person.office_hours %}- Office Hours: {{ person.office_hours }}{% endif %}
+{% endfor %}
+
+**Course Assistants:**
+{% for person in site.data.people.course_assistants %}
+- {{ person.name }}{% if person.email %} ({{ person.email }}){% endif %}
+  {% if person.office %}- Office: {{ person.office }}{% endif %}
+  {% if person.office_hours %}- Office Hours: {{ person.office_hours }}{% endif %}
+{% endfor %}
+
+
 
 ## Course Description
 

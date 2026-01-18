@@ -10,7 +10,7 @@ generative output of VAEs."
 #thumbnail: /_images/thumbnails/ds598-vaes.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/21_vaes.pdf
+    - url: /static_files/lectures/21_unsupervised_learning_and_variational_autoencoders.pdf
       name: slides
 ---
 **Readings:**

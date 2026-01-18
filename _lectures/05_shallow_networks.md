@@ -7,7 +7,7 @@ and explore their representational power."
 #thumbnail: /_images/thumbnails/ds598-lecture-03.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/05_shallow_networks.pdf
+    - url: /static_files/lectures/05_shallow_neural_networks.pdf
       name: slides
 ---
 **Readings:**
