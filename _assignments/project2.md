@@ -2,7 +2,7 @@
 type: assignment
 date: 2026-03-08T0800-0500
 title: Project 2
-jupyter: https://colab.research.google.com/github/DL4DS/fa2025/blob/main/static_files/assignments/project2.ipynb
+jupyter: https://colab.research.google.com/github/DL4DS/sp2026/blob/main/static_files/assignments/project2.ipynb
 hide_from_announcments: true
 published: false
 due_event: 

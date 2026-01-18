@@ -2,7 +2,7 @@
 type: assignment
 date: 2026-02-01T08:00-0500
 title: Homework 3
-jupyter: https://colab.research.google.com/github/DL4DS/fa2025/blob/main/static_files/assignments/homework3.ipynb
+jupyter: https://colab.research.google.com/github/DL4DS/sp2026/blob/main/static_files/assignments/homework3.ipynb
 hide_from_announcments: true
 published: false
 due_event: 
