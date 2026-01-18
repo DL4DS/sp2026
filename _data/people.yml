@@ -1,19 +1,24 @@
 instructors:
   - name: Thomas Gardos
     profile_pic: /_images/pp/gardos.jpg
-    webpage: https://www.linkedin.com/in/thomas-gardos/
-    email: tgardos@bu.edu
+    # webpage: https://www.linkedin.com/in/thomas-gardos/
+    # email: tgardos@bu.edu
 
 teaching_assistants:
-  - name: TBD
-    email: TBD
-  - name: TBD
-    email: TBD
+  - name: Johnathan Finizio
+    email: jfinizio@bu.edu
+    profile_pic: /_images/pp/Portrait_Placeholder.png
+  - name: Yuki Li
+    email: yukili@bu.edu
+    profile_pic: /_images/pp/Portrait_Placeholder.png
 
 course_assistants:
-  - name: TBD
-    email: TBD
-  - name: TBD
-    email: TBD
-  - name: TBD
-    email: TBD    
+  - name: Tarushi Gandhi
+    email: tarushi@bu.edu
+    profile_pic: /_images/pp/Portrait_Placeholder.png
+  - name: Priyanshi Bansal
+    email: bpri1504@bu.edu
+    profile_pic: /_images/pp/Portrait_Placeholder.png
+  - name: Carol Kong
+    email: qykong@bu.edu
+    profile_pic: /_images/pp/Portrait_Placeholder.png
