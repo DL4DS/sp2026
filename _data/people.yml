@@ -2,7 +2,9 @@ instructors:
   - name: Thomas Gardos
     profile_pic: /_images/pp/gardos.jpg
     # webpage: https://www.linkedin.com/in/thomas-gardos/
-    # email: tgardos@bu.edu
+    email: tgardos@bu.edu
+    office: CDS 1623
+    office_hours: Tuesdays 2-3pm, Thursdays 2-3pm, or by appointment
 
 teaching_assistants:
   - name: Johnathan Finizio
