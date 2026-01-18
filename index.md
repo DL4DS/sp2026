@@ -115,6 +115,10 @@ Late submissions will be penalized by 20%.
 - See Gradescope for specific due dates and late submission deadlines.
 - There will also be pre-class reflections based on the reading assignment for each lecture. These will be graded for participation, not for content.
 
+> The course staff reserves the right to request a short oral examination of
+> homework or projects if we suspect improper AI usage. Your grade may be adjusted
+> accordingly based on the your assessed comprehension.
+
 ### Discussions
 
 - Discussion sections will focus on hands-on practice with concepts covered in lectures.
