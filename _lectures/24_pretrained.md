@@ -13,4 +13,4 @@ links:
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 - [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
 **Examples:**
-- [ControlNet example notebook](https://colab.research.google.com/github/DL4DS/fa2025/blob/main/static_files/lectures/24_controlnet.ipynb)
+- [ControlNet example notebook](https://colab.research.google.com/github/DL4DS/sp2026/blob/main/static_files/lectures/24_controlnet.ipynb)
