@@ -6,7 +6,7 @@ tldr: "In this lecture, we consider gradient as a general technique for training
 #thumbnail: /_images/thumbnails/ds598-lecture-03.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/04_gradients.pdf
+    - url: /static_files/lectures/04_gradient_descent.pdf
       name: slides
 ---
 **Readings:**

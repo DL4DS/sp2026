@@ -6,7 +6,7 @@ tldr: "In this lecture, we consider diffusion models, the current best practice 
 #thumbnail: /_images/thumbnails/ds598-diffusion.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/22_diffusion.pdf
+    - url: /static_files/lectures/22_diffusion_models.pdf
       name: slides
 ---
 **Readings:**

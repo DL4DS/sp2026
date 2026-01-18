@@ -6,7 +6,7 @@ tldr: "In this lecture we cover the attention mechanism used to handle longer va
 #thumbnail: /_images/thumbnails/ds598-lecture-12.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/16_attention.pdf
+    - url: /static_files/lectures/16_attention_and_transformers.pdf
       name: slides
 ---
 **Readings:**

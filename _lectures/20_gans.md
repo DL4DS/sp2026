@@ -8,7 +8,7 @@ We will also discuss the challenges and limitations of GANs and some of the rece
 #thumbnail: /_images/thumbnails/ds598-unsup-gans.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/20_gans.pdf
+    - url: /static_files/lectures/20_adversarial_inputs_and_generative_adversarial_networks.pdf
       name: slides
 ---
 **Readings:**

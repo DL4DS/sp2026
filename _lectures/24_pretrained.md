@@ -6,7 +6,7 @@ tldr: "In this lecture we explore the usage of pre-trained models as a foundatio
 #thumbnail: /_images/thumbnails/ds598-gnn.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/24_pretrained.pdf
+    - url: /static_files/lectures/24_using_pre-trained_models.pdf
       name: slides
 ---
 **Readings:**

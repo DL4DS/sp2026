@@ -8,7 +8,7 @@ lecture topics, homework assignments and projects."
 #thumbnail: /_images/thumbnails/ds598-lecture-01.png
 hide_from_announcments: true
 links:
-    - url: /static_files/lectures/01_intro.pdf
+    - url: /static_files/lectures/01_introduction.pdf
       name: slides
 ---
 
