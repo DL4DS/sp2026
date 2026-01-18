@@ -105,26 +105,27 @@ Students are of course free to use their own personal computer, but you will als
 
 ## Course Requirements
 
-### Homework and Projects
+### Homework, Projects and Pre-Work Reflections
 
-- In the first half of the course, there will be weekly assignments to reinforce the key concepts and coding patterns.
-Homework assignments will generally be posted on Mondays and due Wednesday the following week.
-- In the second half of the course, there will be biweekly projects to implement the bigger concepts covered in lecture and build deeper hands-on experience.
-Projects will be due 2-3 weeks after being assigned.
+- There will be a homework to kick off the semester as a refresher on some prerequisite concepts.
+- For most of the course, there will be biweekly projects to implement the bigger concepts covered in lecture and build deeper hands-on experience.
+Projects will be due ~2 weeks after being assigned.
 - Late submissions will be allowed up to two days after the original deadline, but may be abridged (e.g. due to the end of the semester).
-Late submissions will be penalized 1% per hour (rounded up).
+Late submissions will be penalized by 20%.
 - See Gradescope for specific due dates and late submission deadlines.
+- There will also be pre-class reflections based on the reading assignment for each lecture. These will be graded for participation, not for content.
 
 ### Discussions
 
 - Discussion sections will focus on hands-on practice with concepts covered in lectures.
-- At the end of each discussion section, you will have to submit your code and answer questions about the exercise in Gradescope.
+- You will have to submit your code and answer questions about the exercise in Gradescope by the end of the day of the discussion.
+- You may submit up to 48 hours late with a 20% penalty.
 
 ## Course Assessment
 
-- Homeworks: 25%
-- Projects: 40%
-- Discussions: 35%
+- Homeworks and Pre-Work Reflections: 15%
+- Projects: 70%
+- Discussions: 15%
 
 ## Student Code of Conduct
 

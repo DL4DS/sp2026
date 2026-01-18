@@ -5,7 +5,7 @@ title: Homework 1
 pdf: /static_files/assignments/homework1.pdf
 latex: /static_files/assignments/homework1.tex
 hide_from_announcments: true
-published: false
+published: true
 due_event: 
     type: due
     date: 2026-01-27T23:59:00-5:00
