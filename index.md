@@ -10,7 +10,7 @@ layout: home
 ## Personnel and Logistics
 
 **Lectures (A1):** Tuesdays and Thursdays, 3:30pm -- 4:45pm<br>
-**Location:** STH B19 (745 Commonwealth Ave)
+**Location:** CGS 505 (871 Commonwealth Ave)
 
 **Discussion Session A2:** Fridays, 10:10pm -- 11:00am<br>
 **Location:** IEC B10 (888 Commonwealth Ave)
