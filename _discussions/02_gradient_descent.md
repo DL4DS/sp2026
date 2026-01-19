@@ -9,7 +9,10 @@ hide_from_announcments: true
 #    - url: /static_files/discussion_slides/01_gradient_descent.pdf
 #      name: slides
 ---
-**Notebook:** [discussion_2.ipynb](https://colab.research.google.com/github/DL4DS/fa2026_discussions/blob/main/discussion_2.ipynb)
+**Notebook:** 
+
+- [discussion_2.ipynb](https://github.com/DL4DS/sp2026_discussions/blob/main/discussion_2.ipynb)
+- [discussion 2 colab notebook](https://colab.research.google.com/github/DL4DS/fa2026_discussions/blob/main/discussion_2.ipynb)
 
 **Suggested Readings:**
 - [A Gentle Introduction to torch.autograd](https://docs.pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html).
