@@ -10,6 +10,8 @@ hide_from_announcments: true
 links:
     - url: /static_files/lectures/01_introduction.pdf
       name: slides
+    - url: https://mymedia.bu.edu/media/t/1_7e8iun5r/400031993
+      name: lecture recording
 ---
 
 **Readings:**
