@@ -4,7 +4,7 @@ date: 2026-01-28T08:00-0500
 title: Homework 2 -- Shallow Networks
 jupyter: /static_files/assignments/hw2-shallow_networks.ipynb
 colab: https://colab.research.google.com/github/DL4DS/sp2026/blob/main/static_files/assignments/hw2-shallow_networks.ipynb
-hide_from_announcments: true
+hide_from_announcments: false
 published: true
 due_event: 
     type: due
