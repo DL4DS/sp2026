@@ -19,7 +19,19 @@ layout: page
             {% endif %}
 
             {% if asg.jupyter %}
+            {% if asg.jupyter contains '://' %}
             &nbsp; <a title="Download Jupyter notebook." href="{{ asg.jupyter }}"><i class="fas fa-file-code"></i></a>
+            {% else %}
+            &nbsp; <a title="Download Jupyter notebook." href="{{ asg.jupyter | relative_url }}"><i class="fas fa-file-code"></i></a>
+            {% endif %}
+            {% endif %}
+
+            {% if asg.colab %}
+            {% if asg.colab contains '://' %}
+            &nbsp; <a title="Open in Colab" href="{{ asg.colab }}"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" style="height: 20px; vertical-align: middle;" /></a>
+            {% else %}
+            &nbsp; <a title="Open in Colab" href="{{ asg.colab | relative_url }}"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" style="height: 20px; vertical-align: middle;" /></a>
+            {% endif %}
             {% endif %}
 
             </strong> 
