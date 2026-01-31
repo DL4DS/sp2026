@@ -4,7 +4,7 @@ date: 2026-03-20
 title: Discussion 7 -- LSTMs
 tldr: "We will train LSTM models on simple string manipulation tasks."
 #thumbnail: /_images/thumbnails/ds598-discussion-01.png
-hide_from_announcments: true
+hide_from_announcements: true
 #links: 
 #    - url: /static_files/discussion_slides/00_discussion.pdf
 #      name: slides

@@ -4,7 +4,7 @@ date: 2026-02-05T15:30:00-5:00
 title: 06 - Gradient Descent
 tldr: "In this lecture, we consider gradient as a general technique for training parametric models, and preview how it enables joint training of differentiable components."
 #thumbnail: /_images/thumbnails/ds598-lecture-03.png
-hide_from_announcments: true
+hide_from_announcements: true
 links:
     - url: /static_files/lectures/04_gradient_descent.pdf
       name: slides

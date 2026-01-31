@@ -6,7 +6,7 @@ tldr: "In this lecture we introduce recurrent neural networks, starting the
 plain vanilla RNN, the problem of vanishing gradients, LSTM and GRU and batch
 normalization."
 #thumbnail: /_images/thumbnails/ds598-lecture-11a.png
-hide_from_announcments: true
+hide_from_announcements: true
 links:
     - url: /static_files/lectures/15_recurrent_neural_networks.pdf
       name: slides

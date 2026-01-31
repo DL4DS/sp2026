@@ -102,7 +102,7 @@ tldr: "What is Data Science? How does it impact our lives? The current state of 
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
-hide_from_announcments: false
+hide_from_announcements: false
 
 # optional
 links: 
@@ -140,7 +140,7 @@ attachment: /static_files/assignments/assign_01_attachment.zip
 
 # optional
 # set it to true if you don't want this assignment to appear in the announcements section
-hide_from_announcments: false
+hide_from_announcements: false
 
 due_event: 
     type: due
@@ -160,7 +160,7 @@ description: <Description of deadline (e.g. 'Final report due')>
 
 # optional
 # set it to true if you don't want this event to appear in the announcements section
-hide_from_announcments: false
+hide_from_announcements: false
 ---
 ```
 
@@ -174,7 +174,7 @@ description: <Description of the exam (e.g. 'The midterm exam')>
 
 # optional
 # set it to true if you don't want to this event appear in the announcements section
-hide_from_announcments: false
+hide_from_announcements: false
 ---
 ```
 
@@ -193,7 +193,7 @@ hide_time: false
 
 # optional
 # set it to true if you don't want this event appear to in the announcements section
-hide_from_announcments: false
+hide_from_announcements: false
 ---
 <!-- you can create custom content using markdown. this section will be placed in "Course Materials (in schedule section)" -->
 ## Hello

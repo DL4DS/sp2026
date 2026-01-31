@@ -3,7 +3,7 @@ type: assignment
 date: 2026-04-07T0800-0400
 title: Project 4
 jupyter: https://colab.research.google.com/github/DL4DS/sp2026/blob/main/static_files/assignments/project4.ipynb
-hide_from_announcments: true
+hide_from_announcements: true
 published: false
 due_event: 
     type: due

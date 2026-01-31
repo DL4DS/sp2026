@@ -4,7 +4,7 @@ date: 2026-01-20T08:00-0500
 title: Homework 1 -- Math Refresher
 pdf: /static_files/assignments/homework1.pdf
 latex: /static_files/assignments/homework1.tex
-hide_from_announcments: true
+hide_from_announcements: true
 published: true
 due_event: 
     type: due

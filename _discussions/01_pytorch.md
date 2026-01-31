@@ -4,7 +4,7 @@ date: 2026-01-23
 title: Discussion 1 -- PyTorch Intro
 tldr: "We will learn to use PyTorch, the framework we will be using for implementing deep neural networks."
 #thumbnail: /_images/thumbnails/ds598-discussion-01.png
-hide_from_announcments: true
+hide_from_announcements: true
 #links: 
 #    - url: /static_files/discussion_slides/01_pytorch.pdf
 #      name: slides

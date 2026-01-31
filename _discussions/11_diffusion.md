@@ -4,7 +4,7 @@ date: 2026-04-17
 title: Discussion 11 -- Diffusion Models
 tldr: TBD
 #thumbnail: /_images/thumbnails/ds598-discussion-01.png
-hide_from_announcments: true
+hide_from_announcements: true
 #links: 
 #    - url: /static_files/discussion_slides/00_discussion.pdf
 #      name: slides

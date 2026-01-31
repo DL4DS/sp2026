@@ -3,7 +3,7 @@ type: lecture
 date: 2026-04-23T15:30:00-5:00
 title: 25 - Data Preparation and Augmentation
 tldr: "In this lecture we investigate the use of different strategies preparing data to facilitate learning and generalization."
-hide_from_announcments: true
+hide_from_announcements: true
 links:
     - url: /static_files/lectures/25_data_preparation_and_augmentation.pdf
       name: slides

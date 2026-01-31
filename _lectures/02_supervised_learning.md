@@ -5,7 +5,7 @@ title: 02 - Supervised Learning
 tldr: "We go a little deeper into supervised learning, introducing terminology
 and illustrating with a simple example of a linear model."
 #thumbnail: /_images/thumbnails/ds598-lecture-02.png
-hide_from_announcments: true
+hide_from_announcements: true
 links:
     - url: /static_files/lectures/02_supervised_learning.pdf
       name: slides

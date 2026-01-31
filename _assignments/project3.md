@@ -3,7 +3,7 @@ type: assignment
 date: 2026-03-22T0800-0400
 title: Project 3
 jupyter: https://colab.research.google.com/github/DL4DS/sp2026/blob/main/static_files/assignments/project3.ipynb
-hide_from_announcments: true
+hide_from_announcements: true
 published: false
 due_event: 
     type: due

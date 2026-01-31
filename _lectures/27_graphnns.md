@@ -6,7 +6,7 @@ tldr: "In this lecture we introduce graph neural networks, define matrix
 representations, how to do graph level classification and regression, and
 how to define graph convolutional network layers."
 #thumbnail: /_images/thumbnails/ds598-gnn.png
-hide_from_announcments: true
+hide_from_announcements: true
 links:
     - url: /static_files/lectures/27_graph_neural_networks.pdf
       name: slides

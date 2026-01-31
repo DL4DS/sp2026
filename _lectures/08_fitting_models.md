@@ -7,7 +7,7 @@ for models given a training dataset. We'll formally define gradient descent,
 then show the advantages of stochastic gradient descent and then finally see
 how momentum and normalized gradients (ADAM) can improve model training farther."
 #thumbnail: /_images/thumbnails/ds598-lecture-06.png
-hide_from_announcments: true
+hide_from_announcements: true
 links:
     - url: /static_files/lectures/08_fitting_models.pdf
       name: slides

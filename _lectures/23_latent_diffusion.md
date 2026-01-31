@@ -4,7 +4,7 @@ date: 2026-04-16T15:30:00-5:00
 title: 23 - Latent Diffusion Models
 tldr: "In this lecture, we consider diffusion models, the current best practice for image generation."
 #thumbnail: /_images/thumbnails/ds598-diffusion.png
-hide_from_announcments: true
+hide_from_announcements: true
 links:
     - url: /static_files/lectures/23_latent_diffusion_models.pdf
       name: slides
