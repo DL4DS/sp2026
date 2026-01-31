@@ -5,6 +5,7 @@ title: Discussion 5 -- Deep Convolutional Networks
 tldr: We will compare deep convolutional networks with and without residual connections.
 #thumbnail: /_images/thumbnails/ds598-discussion-01.png
 hide_from_announcements: true
+published: false
 #links: 
 #    - url: /static_files/discussion_slides/00_discussion.pdf
 #      name: slides
