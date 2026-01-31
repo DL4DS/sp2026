@@ -6,7 +6,7 @@ tldr: "In this lecture we introduce adversarial inputs.
 We will then dive into Generative Adversarial Networks (GANs) and their applications.
 We will also discuss the challenges and limitations of GANs and some of the recent advances in the field."
 #thumbnail: /_images/thumbnails/ds598-unsup-gans.png
-hide_from_announcments: true
+hide_from_announcements: true
 links:
     - url: /static_files/lectures/20_adversarial_inputs_and_generative_adversarial_networks.pdf
       name: slides

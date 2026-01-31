@@ -6,7 +6,7 @@ tldr: "In this lecture go through the entire LLM training process, starting
 with pretraining, then finetuning. We'll also discuss how to evaluate LLMs as
 well as a parameter efficient fine tuning technique called LORA."
 #thumbnail: /_images/thumbnails/ds598-rag-cogarch.png
-hide_from_announcments: true
+hide_from_announcements: true
 links:
     - url: /static_files/lectures/18_training_tuning_and_evaluating_llms.pdf
       name: slides

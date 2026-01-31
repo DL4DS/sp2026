@@ -4,7 +4,7 @@ date: 2026-01-30
 title: Discussion 2 -- PyTorchAutoGrad
 tldr: We will use PyTorch's automatic differentiation to fit some simple models.
 #thumbnail: /_images/thumbnails/ds598-discussion-01.png
-hide_from_announcments: true
+hide_from_announcements: true
 #links: 
 #    - url: /static_files/discussion_slides/01_gradient_descent.pdf
 #      name: slides

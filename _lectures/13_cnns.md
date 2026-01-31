@@ -5,7 +5,7 @@ title: 13 - Convolutional Neural Networks
 tldr: "We cover 1D and 2D convolutional neural networks along with subsampling and upsampling
 operations."
 #thumbnail: /_images/thumbnails/ds598-lecture-10.png
-hide_from_announcments: true
+hide_from_announcements: true
 links:
     - url: /static_files/lectures/13_convolutional_neural_networks.pdf
       name: slides

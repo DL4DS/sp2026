@@ -4,7 +4,7 @@ date: 2026-02-03T15:30:00-5:00
 title: 05 - Loss Functions
 tldr: "In this lecture, we will motivate and derive common loss functions from a probabilistic view point using maximum likelihood estimation."
 #thumbnail: /_images/thumbnails/ds598-gnn.png
-hide_from_announcments: true
+hide_from_announcements: true
 links:
     - url: /static_files/lectures/05_loss_functions.pdf
       name: slides
