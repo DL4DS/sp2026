@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-02-26T15:30:00-5:00
+date: 2026-02-24T15:30:00-5:00
 title: 11 - Measuring Performance
 tldr: "We look at measuring model training performance, the importance of test
 sets as well as how noise, bias and variance play a role in training outcomes."

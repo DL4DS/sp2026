@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-02-19T15:30:00-5:00
+date: 2026-02-12T15:30:00-5:00
 title: 09 - Backpropagation
 tldr: "In this lecture we show how to efficienctly calculate gradients over
 more complex functions like deep neural networks using backpropagation."
