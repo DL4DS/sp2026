@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2026-02-05T15:30:00-5:00
-title: 06 - Loss Functions, Part 2, SCC Tutorial and Gradient Descent (time permitting)
-tldr: "In this lecture, we consider gradient as a general technique for training parametric models, and preview how it enables joint training of differentiable components."
+title: 06 - Loss Functions, Part 2, SCC Tutorial
+tldr: "In this lecture, we continue to look at loss functions and introduce the shared compute cluster (SCC) for training models."
 #thumbnail: /_images/thumbnails/ds598-lecture-03.png
 hide_from_announcements: true
 links:
