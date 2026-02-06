@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-02-10T15:30:00-5:00
-title: 08 - Gradient Descent and Fitting Models
+title: 07 - Gradient Descent and Fitting Models
 tldr: "In this lecture we look at different ways minimizing the loss function
 for models given a training dataset. We'll formally define gradient descent,
 then show the advantages of stochastic gradient descent and then finally see
@@ -9,7 +9,7 @@ how momentum and normalized gradients (ADAM) can improve model training farther.
 #thumbnail: /_images/thumbnails/ds598-lecture-06.png
 hide_from_announcements: true
 links:
-    - url: /static_files/lectures/08_fitting_models.pdf
+    - url: /static_files/lectures/07_fitting_models.pdf
       name: slides
 ---
 **Readings:**
