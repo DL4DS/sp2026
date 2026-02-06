@@ -4,8 +4,8 @@ date: 2026-02-06
 title: Discussion 3 -- SCC Practice
 tldr: "We will practice running notebooks on the shared compute cluster."
 #thumbnail: /_images/thumbnails/ds598-discussion-01.png
-hide_from_announcements: true
-published: false
+hide_from_announcements: false
+published: true
 #links: 
 #    - url: /static_files/discussion_slides/00_discussion.pdf
 #      name: slides
