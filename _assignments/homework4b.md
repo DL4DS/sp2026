@@ -1,14 +1,14 @@
 ---
 type: assignment
-date: 2026-02-09T10:00-0500
-title: Homework 4
-jupyter: https://colab.research.google.com/github/DL4DS/sp2026/blob/main/static_files/assignments/homework4.ipynb
-hide_from_announcements: true
-published: false
+date: 2026-02-15T21:00-0500
+title: Homework 4b -- Backpropagation
+jupyter: https://colab.research.google.com/github/DL4DS/sp2026/blob/main/static_files/assignments/hw4a_fitting_models.ipynb
+hide_from_announcements: false
+published: true
 due_event: 
     type: due
-    date: 2026-02-17T23:59:00-5:00
-    description: 'Homework 4 due'
+    date: 2026-02-22T23:59:00-5:00
+    description: 'Homework 4 Part 2 due'
 ---
-Homework 4 -- Shared Compute Cluster.
+
 Turn in on GradeScope.

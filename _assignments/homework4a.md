@@ -10,5 +10,5 @@ due_event:
     date: 2026-02-22T23:59:00-5:00
     description: 'Homework 4a due'
 ---
-Homework 4 -- Shared Compute Cluster.
+
 Turn in on GradeScope.
