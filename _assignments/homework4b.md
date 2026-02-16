@@ -2,7 +2,8 @@
 type: assignment
 date: 2026-02-15T21:00-0500
 title: Homework 4b -- Backpropagation
-jupyter: https://colab.research.google.com/github/DL4DS/sp2026/blob/main/static_files/assignments/hw4a_fitting_models.ipynb
+jupyter: /static_files/assignments/hw4b_backpropagation.ipynb
+colab: https://colab.research.google.com/github/DL4DS/sp2026/blob/main/static_files/assignments/hw4b_backpropagation.ipynb
 hide_from_announcements: false
 published: true
 due_event: 
