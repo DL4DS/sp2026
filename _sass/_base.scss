@@ -292,12 +292,13 @@ a.tosu {
 
     .week-header {
         display: block;
-        width: 100%;
         padding: 6px 15px;
         margin-top: 4px;
         background-color: #cfe2f3;
         border-top: 2px solid #336699;
         border-bottom: 1px solid #a8c8e8;
+        border-left: 0.1em solid #d6e8f5;
+        border-right: 0.1em solid #d6e8f5;
         font-size: 1em;
     }
 
