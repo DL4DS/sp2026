@@ -45,7 +45,9 @@ layout: default
         <!--sorts the all_events list by the date property.-->
         {% assign all_events_sorted = all_events | sort: 'date' %}
 
+        {% assign prev_week = "" %}
         {% for event in all_events_sorted %}
+        {% assign curr_week = event.date | date: "%Y-%U" %}
         <li class="table-row \
                    table-row-{{ event.type}} \
                    event-item \
@@ -54,9 +56,11 @@ layout: default
                    {% elsif event.type == 'assignment' %}assignment \
                    {% elsif event.type == 'due' %}due \
                    {% else %}raw-event \
-                   {% endif %}">
+                   {% endif %}\
+                   {% if curr_week != prev_week %}week-start{% endif %}">
             {% include schedule_row_{{ event.type }}.html event=event %}
         </li>
+        {% assign prev_week = curr_week %}
         {% endfor %}
 
     </ul>
