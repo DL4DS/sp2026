@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-02-19T15:30:00-5:00
-title: 10 - Initialization
+title: 09 - Initialization
 tldr: "In this lecture we show how to use gradients to derive better initialization schemes."
 #thumbnail: /_images/thumbnails/ds598-lecture-07a.png
 hide_from_announcements: true
