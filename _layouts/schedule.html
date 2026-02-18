@@ -46,8 +46,16 @@ layout: default
         {% assign all_events_sorted = all_events | sort: 'date' %}
 
         {% assign prev_week = "" %}
+        {% assign week_num = 0 %}
         {% for event in all_events_sorted %}
         {% assign curr_week = event.date | date: "%Y-%U" %}
+        {% if curr_week != prev_week %}
+        {% assign week_num = week_num | plus: 1 %}
+        <li class="week-header">
+            <strong>Week {{ week_num }}</strong>
+        </li>
+        {% assign prev_week = curr_week %}
+        {% endif %}
         <li class="table-row \
                    table-row-{{ event.type}} \
                    event-item \
@@ -56,11 +64,9 @@ layout: default
                    {% elsif event.type == 'assignment' %}assignment \
                    {% elsif event.type == 'due' %}due \
                    {% else %}raw-event \
-                   {% endif %}\
-                   {% if curr_week != prev_week %}week-start{% endif %}">
+                   {% endif %}">
             {% include schedule_row_{{ event.type }}.html event=event %}
         </li>
-        {% assign prev_week = curr_week %}
         {% endfor %}
 
     </ul>
@@ -109,6 +115,20 @@ layout: default
                 } else {
                     item.style.display = 'none';
                 }
+            });
+
+            // Hide week headers when all of their events are filtered out
+            document.querySelectorAll('.week-header').forEach(header => {
+                let sibling = header.nextElementSibling;
+                let hasVisible = false;
+                while (sibling && !sibling.classList.contains('week-header')) {
+                    if (sibling.style.display !== 'none') {
+                        hasVisible = true;
+                        break;
+                    }
+                    sibling = sibling.nextElementSibling;
+                }
+                header.style.display = hasVisible ? '' : 'none';
             });
         }
     
