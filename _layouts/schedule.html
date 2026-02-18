@@ -16,6 +16,8 @@ layout: default
 
 {{ content }}
 
+<p><a id="jump-to-current-week" href="#current-week" style="font-weight: bold;">Jump to current week</a></p>
+
 <div class="home" style="font-size: 0.8em;">
     <ul class="responsive-table" style="margin-left: 0;">
         <li class="table-header">
@@ -147,6 +149,7 @@ layout: default
             if (today >= startDate && today < endDate) {
                 header.querySelector('strong').textContent += ' (current)';
                 header.classList.add('week-header-current');
+                header.id = 'current-week';
             }
         });
     });
