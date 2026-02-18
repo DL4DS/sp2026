@@ -301,6 +301,16 @@ a.tosu {
         font-size: 1em;
     }
 
+    .week-header-current {
+        background-color: #a8c8e8;
+        border-top-color: #0077CC;
+        border-bottom-color: #336699;
+
+        strong {
+            font-weight: 900;
+        }
+    }
+
     .table-row-discussion {
         background-color: #e4e8f0;
     }
