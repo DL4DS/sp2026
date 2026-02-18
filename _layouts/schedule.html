@@ -16,6 +16,8 @@ layout: default
 
 {{ content }}
 
+<p><a id="jump-to-current-week" href="#current-week" style="font-weight: bold;">Jump to current week</a></p>
+
 <div class="home" style="font-size: 0.8em;">
     <ul class="responsive-table" style="margin-left: 0;">
         <li class="table-header">
@@ -45,7 +47,17 @@ layout: default
         <!--sorts the all_events list by the date property.-->
         {% assign all_events_sorted = all_events | sort: 'date' %}
 
+        {% assign prev_week = "" %}
+        {% assign week_num = 0 %}
         {% for event in all_events_sorted %}
+        {% assign curr_week = event.date | date: "%Y-%U" %}
+        {% if curr_week != prev_week %}
+        {% assign week_num = week_num | plus: 1 %}
+        <li class="week-header" data-start-date="{{ event.date | date: '%Y-%m-%d' }}">
+            <strong>Week {{ week_num }}</strong>
+        </li>
+        {% assign prev_week = curr_week %}
+        {% endif %}
         <li class="table-row \
                    table-row-{{ event.type}} \
                    event-item \
@@ -106,8 +118,39 @@ layout: default
                     item.style.display = 'none';
                 }
             });
+
+            // Hide week headers when all of their events are filtered out
+            document.querySelectorAll('.week-header').forEach(header => {
+                let sibling = header.nextElementSibling;
+                let hasVisible = false;
+                while (sibling && !sibling.classList.contains('week-header')) {
+                    if (sibling.style.display !== 'none') {
+                        hasVisible = true;
+                        break;
+                    }
+                    sibling = sibling.nextElementSibling;
+                }
+                header.style.display = hasVisible ? '' : 'none';
+            });
         }
     
         filterEvents(); // Initial call to set the correct visibility on page load
+
+        // Mark the current week header
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+        const weekHeaders = Array.from(document.querySelectorAll('.week-header'));
+        weekHeaders.forEach((header, index) => {
+            const startDate = new Date(header.dataset.startDate + 'T00:00:00');
+            const nextHeader = weekHeaders[index + 1];
+            const endDate = nextHeader
+                ? new Date(nextHeader.dataset.startDate + 'T00:00:00')
+                : new Date(9999, 0, 1);
+            if (today >= startDate && today < endDate) {
+                header.querySelector('strong').textContent += ' (current)';
+                header.classList.add('week-header-current');
+                header.id = 'current-week';
+            }
+        });
     });
 </script>
