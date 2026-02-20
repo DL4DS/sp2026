@@ -4,8 +4,8 @@ date: 2026-02-20
 title: Discussion 5 -- Neural Net Initialization
 tldr: We will build deep neural networks and compare training them with good and bad initialization strategies.
 #thumbnail: /_images/thumbnails/ds598-discussion-01.png
-hide_from_announcements: true
-published: false
+hide_from_announcements: false
+published: true
 #links: 
 #    - url: /static_files/discussion_slides/00_discussion.pdf
 #      name: slides
