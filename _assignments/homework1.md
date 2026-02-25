@@ -10,6 +10,10 @@ due_event:
     type: due
     date: 2026-01-27T23:59:00-5:00
     description: 'Homework 1 due'
+late_due_event:
+    type: due
+    date: 2026-01-29T23:59:00-5:00
+    description: 'Homework 1 late due'
 ---
 Homework 1 -- Math and Machine Learning Background.
 

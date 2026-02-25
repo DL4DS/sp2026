@@ -30,6 +30,7 @@ layout: default
         <!--creates a new variable all_assignment_dues which is a list of due_event
          properties from the site.assignments collection-->
         {% assign all_assignment_dues = site.assignments | map: "due_event" %}
+        {% assign all_assignment_late_dues = site.assignments | map: "late_due_event" %}
 
         <!--initializes the all_events variable by concatenating the site.events
          collection with the site.lectures collection-->
@@ -43,6 +44,7 @@ layout: default
 
         <!--adds the all_assignment_dues list to the all_events list.-->
         {% assign all_events = all_events | concat: all_assignment_dues %}
+        {% assign all_events = all_events | concat: all_assignment_late_dues %}
 
         <!--sorts the all_events list by the date property.-->
         {% assign all_events_sorted = all_events | sort: 'date' %}

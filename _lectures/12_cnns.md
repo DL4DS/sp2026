@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-03-03T15:30:00-5:00
+date: 2026-03-05T15:30:00-5:00
 title: 12 - Convolutional Neural Networks
 tldr: "We cover 1D and 2D convolutional neural networks along with subsampling and upsampling
 operations."
