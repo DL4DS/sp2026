@@ -9,6 +9,10 @@ due_event:
     type: due
     date: 2026-03-24T23:59:00-5:00
     description: 'Project 2 due'
+late_due_event:
+    type: due
+    date: 2026-03-26T23:59:00-5:00
+    description: 'Project 2 late due'
 ---
 Project 2 -- TBA.
 Turn in on GradeScope.

@@ -10,6 +10,10 @@ due_event:
     type: due
     date: 2026-02-22T23:59:00-5:00
     description: 'Homework 4a due'
+late_due_event:
+    type: due
+    date: 2026-02-24T23:59:00-5:00
+    description: 'Homework 4a late due'
 ---
 
 Turn in on GradeScope.

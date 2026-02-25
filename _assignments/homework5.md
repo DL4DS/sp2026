@@ -9,6 +9,10 @@ due_event:
     type: due
     date: 2026-02-24T23:59:00-5:00
     description: 'Homework 5 due'
+late_due_event:
+    type: due
+    date: 2026-02-26T23:59:00-5:00
+    description: 'Homework 5 late due'
 ---
 Homework 5 -- Fitting models.
 Turn in on GradeScope.

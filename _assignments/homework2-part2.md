@@ -10,6 +10,10 @@ due_event:
     type: due
     date: 2026-02-08T23:59:00-5:00
     description: 'Homework 2 Part 2 due'
+late_due_event:
+    type: due
+    date: 2026-02-10T23:59:00-5:00
+    description: 'Homework 2 Part 2 late due'
 ---
 Homework 2 Part 2 -- Deep Networks
 

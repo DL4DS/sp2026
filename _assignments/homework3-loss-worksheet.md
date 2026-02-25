@@ -10,6 +10,10 @@ due_event:
     type: due
     date: 2026-02-12T23:59:00-5:00
     description: 'Homework 3 due'
+late_due_event:
+    type: due
+    date: 2026-02-14T23:59:00-5:00
+    description: 'Homework 3 late due'
 ---
 Homework 3 -- Derive negative log-likelihood loss functions for different probability distributions.
 
