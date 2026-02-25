@@ -7,7 +7,7 @@ sets as well as how noise, bias and variance play a role in training outcomes."
 #thumbnail: /_images/thumbnails/ds598-lecture-08.png
 hide_from_announcements: true
 links:
-    - url: /static_files/lectures/11_measuring_performance_and_generalization.pdf
+    - url: /static_files/lectures/10_measuring_performance.pdf
       name: slides
 ---
 **Readings:**
