@@ -1,11 +1,11 @@
 ---
 type: discussion
 date: 2026-02-27
-title: Discussion 6 -- Deep Convolutional Networks
-tldr: We will compare deep convolutional networks with and without residual connections.
+title: Discussion 6 -- Regularization to Improve Test Accuracy
+tldr: We'll consider early stopping and implicit and explicit regularization strategies.
 #thumbnail: /_images/thumbnails/ds598-discussion-01.png
-hide_from_announcements: true
-published: false
+hide_from_announcements: false
+published: true
 #links: 
 #    - url: /static_files/discussion_slides/00_discussion.pdf
 #      name: slides
