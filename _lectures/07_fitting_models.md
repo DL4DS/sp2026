@@ -11,6 +11,8 @@ hide_from_announcements: true
 links:
     - url: /static_files/lectures/07_fitting_models.pdf
       name: slides
+    - url: https://mymedia.bu.edu/media/t/1_emxjihxt/400031993
+      name: lecture recording
 ---
 **Readings:**
 - [Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf), Chapter 6

@@ -10,6 +10,8 @@ links:
       name: slides
     - url: https://trgardos.github.io/shell-scc-python/04_scc.html
       name: SCC Overview
+    - url: https://mymedia.bu.edu/media/t/1_00km3npo/400031993
+      name: lecture recording
 ---
 **Readings:**
 - [Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf), Chapter 5
