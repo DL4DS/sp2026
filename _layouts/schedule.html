@@ -55,7 +55,7 @@ layout: default
         {% assign curr_week = event.date | date: "%Y-%U" %}
         {% if curr_week != prev_week %}
         {% assign week_num = week_num | plus: 1 %}
-        <li class="week-header" data-start-date="{{ event.date | date: '%Y-%m-%d' }}">
+        <li class="week-header" data-start-date="{{ event.date | date: '%Y-%m-%d' }}" data-week-key="{{ curr_week }}">
             <strong>Week {{ week_num }}</strong>
         </li>
         {% assign prev_week = curr_week %}
@@ -138,21 +138,36 @@ layout: default
     
         filterEvents(); // Initial call to set the correct visibility on page load
 
-        // Mark the current week header
-        const today = new Date();
-        today.setHours(0, 0, 0, 0);
-        const weekHeaders = Array.from(document.querySelectorAll('.week-header'));
-        weekHeaders.forEach((header, index) => {
-            const startDate = new Date(header.dataset.startDate + 'T00:00:00');
-            const nextHeader = weekHeaders[index + 1];
-            const endDate = nextHeader
-                ? new Date(nextHeader.dataset.startDate + 'T00:00:00')
-                : new Date(9999, 0, 1);
-            if (today >= startDate && today < endDate) {
-                header.querySelector('strong').textContent += ' (current)';
-                header.classList.add('week-header-current');
-                header.id = 'current-week';
+        // Mark the current week header using the same Sunday-based week key as Liquid "%Y-%U"
+        function getSundayWeekKey(date) {
+            const d = new Date(date);
+            d.setHours(0, 0, 0, 0);
+
+            const year = d.getFullYear();
+            const jan1 = new Date(year, 0, 1);
+            jan1.setHours(0, 0, 0, 0);
+
+            const firstSundayOffset = (7 - jan1.getDay()) % 7;
+            const firstSunday = new Date(year, 0, 1 + firstSundayOffset);
+            firstSunday.setHours(0, 0, 0, 0);
+
+            let weekNumber = 0;
+            if (d >= firstSunday) {
+                const msPerDay = 24 * 60 * 60 * 1000;
+                const daysSinceFirstSunday = Math.floor((d - firstSunday) / msPerDay);
+                weekNumber = Math.floor(daysSinceFirstSunday / 7) + 1;
             }
-        });
+
+            return `${year}-${String(weekNumber).padStart(2, '0')}`;
+        }
+
+        const todayKey = getSundayWeekKey(new Date());
+        const weekHeaders = Array.from(document.querySelectorAll('.week-header'));
+        const currentHeader = weekHeaders.find(header => header.dataset.weekKey === todayKey);
+        if (currentHeader) {
+            currentHeader.querySelector('strong').textContent += ' (current)';
+            currentHeader.classList.add('week-header-current');
+            currentHeader.id = 'current-week';
+        }
     });
 </script>
