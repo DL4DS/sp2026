@@ -7,7 +7,7 @@ help generalize models."
 #thumbnail: /_images/thumbnails/ds598-lecture-09.png
 hide_from_announcements: true
 links:
-    - url: /static_files/lectures/12_regularization.pdf
+    - url: /static_files/lectures/11_regularization.pdf
       name: slides
 ---
 **Readings:**
