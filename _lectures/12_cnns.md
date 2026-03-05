@@ -7,7 +7,7 @@ operations."
 #thumbnail: /_images/thumbnails/ds598-lecture-10.png
 hide_from_announcements: true
 links:
-    - url: /static_files/lectures/13_convolutional_neural_networks.pdf
+    - url: /static_files/lectures/12_convolutional_networks.pdf
       name: slides
 ---
 **Readings:**
