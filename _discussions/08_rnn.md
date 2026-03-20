@@ -14,7 +14,7 @@ published: true
 
 - [discussion_08.ipynb](https://github.com/DL4DS/sp2026_discussions/blob/main/discussion_08.ipynb)
 - [discussion 08 colab notebook](https://colab.research.google.com/github/DL4DS/sp2026_discussions/blob/main/discussion_08.ipynb)
-- [discussion 08 optional lstm notebook](https://colab.research.google.com/drive/1umZr_YmfIvMCLv81pFv8-q6z5cZ2GOOm#scrollTo=d7f90eef)
+- [discussion 08 optional lstm notebook](https://colab.research.google.com/github/DL4DS/sp2026_discussions/blob/main/discussion_08_optional_lstm.ipynb)
 
 
 **Suggested Readings:**
