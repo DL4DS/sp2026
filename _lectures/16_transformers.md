@@ -1,14 +1,14 @@
 ---
 type: lecture
 date: 2026-03-26T15:30:00-5:00
-title: 17 - Transformers Part 2
+title: 16 - Transformers Part 2
 tldr: "In this lecture we continue to review the transformer architecture.
 We continue the discussion of decoders and encoder-decoder architectures,
 then discuss scaling to large contexts and then tokenization and embedding."
 #thumbnail: /_images/thumbnails/ds598-lecture-13.png
 hide_from_announcements: true
 links:
-    - url: /static_files/lectures/17_transformer_details.pdf
+    - url: /static_files/lectures/16_transformer_details.pdf
       name: slides
 ---
 **Readings:**
