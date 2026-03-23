@@ -8,7 +8,7 @@ architectures."
 #thumbnail: /_images/thumbnails/ds598-lecture-11.png
 hide_from_announcements: true
 links:
-    - url: /static_files/lectures/14_residual_networks.pdf
+    - url: /static_files/lectures/13_residual_networks.pdf
       name: slides
 ---
 
