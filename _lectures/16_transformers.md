@@ -12,5 +12,5 @@ links:
       name: slides
 ---
 **Readings:**
-- [Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf), Chapter 12
+- [Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf), Chapter 12, sections 12.5 - 12.9
 - Optional [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
