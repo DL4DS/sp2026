@@ -5,6 +5,7 @@ title: 24 - Using Pre-Trained Models
 tldr: "In this lecture we explore the usage of pre-trained models as a foundation for classification and controlled generation."
 #thumbnail: /_images/thumbnails/ds598-gnn.png
 hide_from_announcements: true
+published: false
 links:
     - url: /static_files/lectures/24_using_pre-trained_models.pdf
       name: slides
