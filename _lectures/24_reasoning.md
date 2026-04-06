@@ -1,13 +1,13 @@
 ---
 type: lecture
 date: 2026-04-28T15:30:00-5:00
-title: 26 - Reasoning and World Models
+title: 24 - Reasoning and World Models
 tldr: "In this lecture we examine claims that models have world models and can reason, and attempts to encourage such behavior."
 #thumbnail: /_images/thumbnails/ds598-gnn.png
 hide_from_announcements: true
-links:
-    - url: /static_files/lectures/26_reasoning_and_world_models.pdf
-      name: slides
+#links:
+#    - url: /static_files/lectures/26_reasoning_and_world_models.pdf
+#      name: slides
 ---
 **Readings:**
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903)

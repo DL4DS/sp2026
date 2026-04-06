@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-03-31T15:30:00-5:00
+date: 2026-04-02T15:30:00-5:00
 title: 17 - Training, Tuning and Evaluating LLMs
 tldr: "In this lecture go through the entire LLM training process, starting
 with pretraining, then finetuning. We'll also discuss how to evaluate LLMs as
