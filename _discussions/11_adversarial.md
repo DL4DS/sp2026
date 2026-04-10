@@ -5,7 +5,7 @@ title: Discussion 11 -- GANs
 tldr: We will construct adversarial examples and train a small GAN.
 #thumbnail: /_images/thumbnails/ds598-discussion-01.png
 hide_from_announcements: true
-published: false
+published: true
 #links: 
 #    - url: /static_files/discussion_slides/00_discussion.pdf
 #      name: slides
