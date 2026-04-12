@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-04-14T15:30:00-5:00
-title: 20 - Unsupervised Learning and Variational Autoencoders
+title: 20 - Variational Autoencoders
 tldr: "In this lecture we revisit the concept of unsupervised learning in the
 context of generative models and then dive into Variational Autoencoders. After reviewing unsupervised learning, we look look at autoencoders and their ability to reduce dimensions of
 inputs into a latent space. We'll see why they don't make good generative
@@ -10,9 +10,9 @@ generative output of VAEs."
 #thumbnail: /_images/thumbnails/ds598-vaes.png
 hide_from_announcements: true
 links:
-    - url: /static_files/lectures/21_unsupervised_learning_and_variational_autoencoders.pdf
+    - url: /static_files/lectures/20_VAEs.pdf
       name: slides
 ---
 **Readings:**
-- [Understanding Variational Autoencoders](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
+- [Understanding Variational Autoencoders](https://medium.com/data-science/understanding-variational-autoencoders-vaes-f70510919f73)
 - [Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf), Chapter 14, 17 (optional)
