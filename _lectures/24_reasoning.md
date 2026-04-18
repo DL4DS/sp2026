@@ -5,6 +5,7 @@ title: 24 - Reasoning and World Models
 tldr: "In this lecture we examine claims that models have world models and can reason, and attempts to encourage such behavior."
 #thumbnail: /_images/thumbnails/ds598-gnn.png
 hide_from_announcements: true
+published: false
 #links:
 #    - url: /static_files/lectures/26_reasoning_and_world_models.pdf
 #      name: slides

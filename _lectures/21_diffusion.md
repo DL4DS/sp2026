@@ -10,5 +10,12 @@ links:
       name: slides
 ---
 **Readings:**
-- [Rocca, Understanding Diffusion Probabilistic Models](https://towardsdatascience.com/understanding-diffusion-probabilistic-models-dpms-1940329d6048)
+- [Rocca, Understanding Diffusion Probabilistic Models](https://medium.com/data-science/understanding-diffusion-probabilistic-models-dpms-1940329d6048)
 - [Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf), Chapter 18
+
+**Works Cited:**
+- 2015: Sohl-Dickstein “Deep Unsupervised Learning using Nonequilibrium Thermodynamics”
+- 2020 (DDPM): J. Ho, A. Jain, and P. Abbeel, “Denoising Diffusion Probabilistic Models”
+- 2022 (DDIM): J. Song, C. Meng, and S. Ermon, “Denoising Diffusion Implicit Models” – more efficient
+- 2022 (Stable Diffusion): R. Rombach, A. Blattmann, D. Lorenz, P. Esser, and B. Ommer, “High-Resolution Image Synthesis with Latent Diffusion Models”
+- 2023 (Diffusion Transformer): W. Peebles and S. Xie, “Scalable Diffusion Models with Transformers”
