@@ -8,6 +8,8 @@ hide_from_announcements: true
 links:
     - url: /static_files/lectures/21_diffusion_models.pdf
       name: diffusion slides
+    - url: /static_files/lectures/21_project4_diffusion_models.pdf
+      name: project 4 diffusion models slides
     - url: /static_files/lectures/18_vision_multimodal_transformers.pdf
       name: image and multimodal transformers slides
 ---
