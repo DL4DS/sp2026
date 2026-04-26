@@ -12,7 +12,7 @@ published: true
 ---
 **Notebook:** 
 
-[discussion_11.ipynb](https://github.com/DL4DS/fa2026_discussions/blob/main/discussion_11.ipynb)
+- [discussion_11.ipynb](https://github.com/DL4DS/fa2026_discussions/blob/main/discussion_11.ipynb)
 - [discussion 11 colab notebook](https://colab.research.google.com/github/DL4DS/fa2026_discussions/blob/main/discussion_11.ipynb)
 
 **Suggested Readings:**
